@@ -1,0 +1,38 @@
+.login-container {
+    display: flex;
+    justify-content: center;
+    border: 2px orange solid;
+    width: 500px;
+    height: 430px;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.signup h2 {
+    margin-top: 20px;
+}
+
+.signup input {
+    width: 400px;
+    height: 40px;
+    border: 1px solid black;
+
+}
+
+.signup button {
+    height: 40px;
+    width: 405px;
+    background: orangered;
+    border: none;
+    color: white;
+    border-radius: 3px;
+}
+
+.login-here {
+    margin-top: 10px;
+}
+
+.login-here span {
+    color: orangered;
+}
